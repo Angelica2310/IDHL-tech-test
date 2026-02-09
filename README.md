@@ -1,6 +1,6 @@
 # Product Card & Slide-Out Cart Demo
 
-This project is a small front-end UI demo showcasing a product card and a slide-out shopping cart.  
+This project is a small front-end UI demo showcasing a responsive landing page with add to bag functionality.  
 It focuses on layout, styling, animation, and interaction, rather than full e-commerce logic.
 
 ---
